@@ -1,6 +1,6 @@
 {
   "name": "@philiprehberger/debounce-promise",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Debounced async functions that return the latest promise result",
   "type": "module",
   "main": "./dist/index.cjs",

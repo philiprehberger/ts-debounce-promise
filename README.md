@@ -2,7 +2,7 @@
 
 [![CI](https://github.com/philiprehberger/ts-debounce-promise/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/ts-debounce-promise/actions/workflows/ci.yml)
 [![npm version](https://img.shields.io/npm/v/@philiprehberger/debounce-promise)](https://www.npmjs.com/package/@philiprehberger/debounce-promise)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/github/license/philiprehberger/ts-debounce-promise)](LICENSE)
 
 Debounced async functions that return the latest promise result.
 
