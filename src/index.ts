@@ -1,2 +1,7 @@
 export { debounceAsync } from './debounce';
-export type { DebounceAsyncOptions, DebouncedAsyncFunction } from './types';
+export { DebounceTimeoutError } from './errors';
+export type {
+  DebounceAsyncOptions,
+  DebounceMetrics,
+  DebouncedAsyncFunction,
+} from './types';

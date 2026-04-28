@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.2.0 (2026-04-27)
+- Add `timeout` option rejecting queued callers via `DebounceTimeoutError`
+- Add `metrics()` and `resetMetrics()` for call/execution/rejection counters
+- Compliance: README aligned with template
+
 ## 0.1.2
 
 - Standardize README to 3-badge format with emoji Support section
